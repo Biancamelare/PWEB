@@ -8,5 +8,8 @@ Atividades realizadas na disciplina de Programação Web da Faculdade de Tecnolo
 <li>Atividade 5: Site de notícias usando Div e FlexBox.</li>
 <li>Atividade 6: Testando media query.</li>
 <li>Atividade 7: Operações com JavaScript.</li>
+<li>Atividade 8: Jogo: Pedra, Papel ou Tesoura.</li>
+<li>Atividade 9: Criando uma pesquisa.</li>
+<li>Atividade 10: Funções utilizando números.</li>
 <li>Atividade Extra: Site sobre comidas típicas de festa junina usando o HTML semântico.</li>
 </ul>
