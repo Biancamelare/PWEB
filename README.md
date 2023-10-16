@@ -11,5 +11,7 @@ Atividades realizadas na disciplina de Programação Web da Faculdade de Tecnolo
 <li>Atividade 8: Jogo: Pedra, Papel ou Tesoura.</li>
 <li>Atividade 9: Criando uma pesquisa.</li>
 <li>Atividade 10: Funções utilizando números.</li>
+<li>Atividade 11: Criando objetos de 3 formas diferentes.</li>
+<li>Atividade 12: Objetos, herença e classe.</li>
 <li>Atividade Extra: Site sobre comidas típicas de festa junina usando o HTML semântico.</li>
 </ul>
