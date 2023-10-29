@@ -15,5 +15,6 @@ Atividades realizadas na disciplina de Programação Web da Faculdade de Tecnolo
 <li>Atividade 12: Objetos, herença e classe.</li>
 <li>Atividade 13: Eventos.</li>
 <li>Atividade 14: Integração de HTML e JavaScript.</li>
+<li>Atividade 15: Formulário.</li>
 <li>Atividade Extra: Site sobre comidas típicas de festa junina usando o HTML semântico.</li>
 </ul>
